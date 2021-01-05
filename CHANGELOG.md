@@ -1,3 +1,15 @@
+## 3.1.0 (2020-12-04)
+
+- Added `instance` method
+- Added `request` argument to `user_method`
+- Updated Ahoy.js to 0.3.8
+- Removed `exclude_method` call when geocoding
+
+## 3.0.5 (2020-09-09)
+
+- Added `group_prop` method
+- Use `datetime` type in migration
+
 ## 3.0.4 (2020-06-07)
 
 - Updated Ahoy.js to 0.3.6
